@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '2907'
     url: http://www.gutenberg.org/2009/agents/2907
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/15506#Philip-WinwoodA-Sketch-of-the-Domestic-History-of-an-American-Captain-in-the-War-of-Independe_
 gutenberg_issued: '2005-03-30'
 gutenberg_type: Text
 identifiers:
